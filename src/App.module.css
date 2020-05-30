@@ -1,5 +1,5 @@
 body{
-    background-color: beige;
+    background-color: whitesmoke; 
 
 }
 
@@ -7,4 +7,10 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
+}
+
+.image{
+    width: 370px;
+    margin-top: 50px;
 }
